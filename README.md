@@ -22,6 +22,9 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+## Importante!!
+Deve-se configurar as variaveis de ambiente no arquivo  ```.env``` na raiz do projeto. Eu deixei um .env.example com o temaplate correto então apenas rode o comando ```cp .env.example .env``` que será gerado um arquivo ```.env``` no qual deverá ser inserido as informações.
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
